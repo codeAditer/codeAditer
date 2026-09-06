@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MEARN , JAVASCRIPT**
 
-- 📫 How to reach me **adityasha0919@gmail.com**
+- 📫 How to reach me **codeaditer19@gmail.com**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaditer" alt="codeaditer" /></a> </p>
