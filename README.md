@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaditer&label=Profile%20views&color=0e75b6&style=flat" alt="codeaditer" /> </p>
 -Elevating hospitality infrastructure to ensure an exceptional stay experience for visiting devotees."**
 **
-
-- 🌱 I’m currently learning **Reactjs ,Nodejs**
+“Curious by nature, developer by craft — always building with the user in mind.”
 
 
 
