@@ -16,8 +16,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaditer" alt="codeaditer" /></a> </p>
 
 
+## 🖋️ Beyond Code
 
-- ⚡ Fun fact **I am funny and creative**
+I write code for machines and stories for humans.
+
+I like turning **ideas into words people actually want to read** — whether it's a brand story, website copy, product, campaign, or that one sentence nobody can seem to get right. 😄
+
+I help **startups, creators & brands** sound more human, tell better stories, and connect with their people.
+
+`Brand Storytelling` · `Content Writing` · `Website Copy` · `Creative Communication`
+
+**Got an idea? Bring it. I'll bring the words. ✍️**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
